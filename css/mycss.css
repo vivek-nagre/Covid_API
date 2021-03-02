@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(201, 253, 236, 0.808);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+    height: 150px;
+    border-radius: 50%;
+    
+  }
+.mypara{
+    text-align: justify;
+    font-size: 23px;
+    /* font-style: italic; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 0.2rem;
+}
+.pagetitle{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 3rem;
+    border: 2px solid;
+    border-radius: 20px;
+    text-shadow: 1px 5px rgb(183, 243, 183);
+    
+}
+#foot{
+    background-color: black;
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 23px;
+    margin-top: 30px;
+}
+.bolt{
+    font-size: 23px;
+}
